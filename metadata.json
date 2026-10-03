@@ -1,0 +1,6 @@
+{
+  "name": "Order Payment Reconciliation & Analysis",
+  "description": "Production-grade Amazon seller payment reconciliation system with multi-file Excel/CSV import, smart Order ID matching, financial discrepancy analysis, and multi-sheet audit exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
